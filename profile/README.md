@@ -1,5 +1,5 @@
 # About
-**CKK** is a student-run computer club dedicated to creating a space for students to explore, innovate, and push the boundaries of technology.
+**CCK** is a student-run computer club dedicated to creating a space for students to explore, innovate, and push the boundaries of technology.
 Our club offers wide range of opputunities for students to sharpen their skills and discover their true potential in the world of computing.
 In Addition, our club aims to be an impact creator.
 
